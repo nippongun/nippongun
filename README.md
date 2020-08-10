@@ -3,6 +3,7 @@
 ## Enthusiastic and flexible problem solver
 - 📚 I study at the Metropolia University of Applied Science
 - ⚙️ The Unity Engine is a great playground to experiment and tinker
+- 🇫🇮 Helsinki is a lovely city
 - 🎸 Guitars are awesome to play
 - 🏙️ I am planning a Cities: Skylines project on YouTube
 
