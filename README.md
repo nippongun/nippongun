@@ -28,5 +28,5 @@
 <br />
 
 [youtube]: https://www.youtube.com/channel/UCKf0S-dfZtk_lHGZTrj3wDg
-[linkedin]: https://www.linkedin.com/in/simon-bauer-300512192/
+[linkedin]: https://www.linkedin.com/in/simppabauer/
 [mail]: mailto:simppabauer@gmail.com
