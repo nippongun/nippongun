@@ -8,9 +8,7 @@
 
 ### Want to contact me?
 
-
 [<img align="left" alt="Mail" width="22px" src="https://raw.githubusercontent.com/thesabbir/simple-line-icons/f3ed94dd797bdcab52d6f27ba589aea4bb6f3e4d/src/svgs/envolope.svg" />][mail]
-[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/thesabbir/simple-line-icons/f3ed94dd797bdcab52d6f27ba589aea4bb6f3e4d/src/svgs/social-youtube.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/thesabbir/simple-line-icons/f3ed94dd797bdcab52d6f27ba589aea4bb6f3e4d/src/svgs/social-linkedin.svg" />][linkedin]
 [<img aling="left" alt="Website" width="22px" src="https://github.com/thesabbir/simple-line-icons/blob/master/src/svgs/globe.svg"/>][website]
 
@@ -22,7 +20,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />]
-
 
 <br />
 <br />
