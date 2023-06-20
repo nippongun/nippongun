@@ -1,10 +1,10 @@
 ### Hello there. My name is Simon.
 
 ## Enthusiastic and flexible problem solver
-- 📚 I study at the Metropolia University of Applied Science
-- ⚙️ The Unity Engine is a great playground to experiment and tinker
-- 🇫🇮 Helsinki is a lovely city
-- 🎸 Guitars are awesome to play
+- Enigneering a brave new world with the power of impactful software solutions
+- C/C++ and Rust enthusiast 
+- Entrepreneurial spirit for complex solutions 
+- Part-time goof, full-time software engineer
 
 ### Want to contact me?
 
