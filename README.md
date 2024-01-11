@@ -1,10 +1,9 @@
 ### Hello there. My name is Simon.
 
 ## Enthusiastic and flexible problem solver
-- Enigneering a brave new world with the power of impactful software solutions
+- Engineering a brave new world with the power of impactful software solutions
 - C/C++ and Rust enthusiast 
 - Entrepreneurial spirit for complex solutions 
-- Part-time goof, full-time software engineer
 
 ### Want to contact me?
 
