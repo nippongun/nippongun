@@ -1,15 +1,22 @@
-### Simon.
+### Simon
 
-## Driven Software Engineer with these skills
-- Programming: C/C++, Rust, C#, Python, Java, Javascript
-- Games: Unity, Godot
-- Tech stack: freeRTOS, embedded devices, SQL, Docker, AWS,
+## Driven Software Engineer
+My most common programming languages:
 
-### Contact
+[![Programming Languages](https://skillicons.dev/icons?i=cpp,rust,cs,python,java,js)](https://skillicons.dev)
 
-[<img align="left" alt="Mail" width="22px" src="https://raw.githubusercontent.com/thesabbir/simple-line-icons/f3ed94dd797bdcab52d6f27ba589aea4bb6f3e4d/src/svgs/envolope.svg" />][mail]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/thesabbir/simple-line-icons/f3ed94dd797bdcab52d6f27ba589aea4bb6f3e4d/src/svgs/social-linkedin.svg" />][linkedin]
-[<img aling="left" alt="Website" width="22px" src="https://github.com/thesabbir/simple-line-icons/blob/master/src/svgs/globe.svg"/>][website]
+Tech Stack I use:
+
+[![Tech Stack](https://skillicons.dev/icons?i=linux,aws,svelte,sqlite,docker,mongodb)](https://skillicons.dev)
+
+When it comes to games, I use this:
+
+[![Game Tech](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
+
+### Contact:
+
+[![Contact](https://skillicons.dev/icons?i=gmail)][mail]
+[![Contact](https://skillicons.dev/icons?i=linkedin)][linkedin]
 
 <br />
 
